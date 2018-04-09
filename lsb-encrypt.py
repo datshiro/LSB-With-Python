@@ -1,4 +1,3 @@
-from PIL import Image
 from sys import argv
 
 def convertDecToBinary(number):
